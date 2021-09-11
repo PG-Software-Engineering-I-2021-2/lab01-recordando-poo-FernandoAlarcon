@@ -10,7 +10,7 @@ public class Automovil extends Vehiculo {
         double remanenteFuel = cantidad - consumoViaje;
 
         if(remanenteFuel > 0) {
-            System.out.println("El vehiculo viajoss: " + _viaje + " Km y aun tiene " + remanenteFuel + " de combustible");
+            System.out.println("El vehiculo viajosss: " + _viaje + " Km y aun tiene " + remanenteFuel + " de combustible");
         }else{
             System.out.println("Vehiculo necesita reabastecmiento de combustible");
         }
