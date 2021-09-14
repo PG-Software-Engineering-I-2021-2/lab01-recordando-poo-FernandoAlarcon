@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+lab01-recordando-poo-FernandoAlarcon,cs.ing.software.lab1,Prueba,26,0,0,0,6,0,2,0,2,0
+lab01-recordando-poo-FernandoAlarcon,cs.ing.software.lab1,Camion,0,74,0,2,0,12,0,7,0,6
+lab01-recordando-poo-FernandoAlarcon,cs.ing.software.lab1,Vehiculo,0,33,0,0,0,11,0,6,0,6
+lab01-recordando-poo-FernandoAlarcon,cs.ing.software.lab1,Automovil,0,50,0,2,0,12,0,7,0,6

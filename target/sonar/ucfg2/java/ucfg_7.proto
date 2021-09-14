@@ -1,0 +1,51 @@
+
+>cs.ing.software.lab1.Camion#imprimirViaje(D)Ljava/lang/String;‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java ("2"1*Ð
+2‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (&Î
+Ë
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (.
+%0java.lang.String"__concat*
+El camion viajo: *
+""ß
+Ü
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (C
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ Km y aun tiene Ÿ
+œ
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.javaF (j
+%2java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+%.2f*
+""ã
+à
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (j
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.StringÞ
+Û
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (~
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+ de combustible"¤
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (
+
+%4java.lang.String*Î
+1‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (C"¾
+‡
+}C:/Users/coyol/Desktop/utec/ciclo2/SE/try/lab01-recordando-poo-FernandoAlarcon/src/main/java/cs/ing/software/lab1/Camion.java (D20
+.camion necesita reabastecmiento de combustible:
+""B
+cs.ing.software.lab1.Camion
